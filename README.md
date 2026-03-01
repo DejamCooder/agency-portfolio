@@ -14,8 +14,8 @@ Built to help business owners manage reservations and digital menus with ease.
 * **JavaScript**: For interactive table generation and cart logic.
 
 ## 📸 Preview
-![Screenshot of Website Contact Page](![Githubb](https://github.com/user-attachments/assets/d8020dea-9dff-428e-8151-9dbdd8a04388)
-)
+![Githubb](https://github.com/user-attachments/assets/6f4dfe8b-fa2f-4ded-b5f4-9a06cae7c760)
+
 
 ## 📧 Contact
 **Dejam Marketing**
